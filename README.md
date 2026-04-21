@@ -1,45 +1,47 @@
 # Network Engineering Lab
 
-This repository documents practical networking exercises using simulation tools to build and understand network topologies, configurations, and troubleshooting techniques.
+This repository documents my hands-on learning and practical experience in network engineering, focusing on topology design, configuration, and troubleshooting using tools like Cisco Packet Tracer.
 
 ---
 
 ## Objective
 
-To develop networking skills through hands-on lab simulations and structured experimentation.
+To develop practical networking skills through structured labs, configurations, and real-world simulation scenarios.
 
 ---
 
 ## Focus Areas
 
 - Network topology design  
-- Routing and switching  
-- IP addressing and subnetting  
+- Device configuration (routers and switches)  
+- Routing and switching concepts  
 - Network troubleshooting  
 
 ---
 
 ## Repository Structure
-```
-Journal/
-Notes/
-PacketTracer/
-Projects/
-```
+
+- configurations – Device configurations and command-level setups  
+- topologies – Network designs and simulation files  
+- projects – Practical networking scenarios and implementations  
+- notes – Networking concepts and learning material  
+- journal – Daily progress and lab activities  
+- tools – Utilities and supporting resources  
+
 ---
 
 ## Approach
 
-- Design and simulate networks using Packet Tracer  
-- Configure devices and test connectivity  
-- Analyze traffic and troubleshoot issues  
-- Document all steps and outcomes  
+- Design network topologies  
+- Configure devices and protocols  
+- Test and troubleshoot networks  
+- Document configurations and outcomes  
 
 ---
 
 ## Goal
 
-To build a portfolio of practical networking projects and demonstrate real-world networking skills.
+To build a strong foundation in networking and demonstrate practical skills aligned with real-world network engineering tasks.
 
 ---
 
