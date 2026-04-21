@@ -8,6 +8,8 @@ This lab demonstrates how two devices communicate within the same network using 
 ## Topology
 PC0 ─── Switch ─── PC1
 
+![Topology](basic-connectivity.png)
+
 ---
 
 ## Devices Used
@@ -40,6 +42,18 @@ ping 192.168.1.2
 Result:
 - Successful replies received  
 - No packet loss  
+
+---
+
+## How to Run
+
+1. Open the `.pkt` file using Cisco Packet Tracer
+2. Click on PC0 → Desktop → Command Prompt
+3. Run:
+```
+ping 192.168.1.2
+```
+4. Observe successful replies
 
 ---
 
